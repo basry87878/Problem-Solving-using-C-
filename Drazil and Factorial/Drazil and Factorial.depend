@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1567366075 source:c:\saleh\acm projects\drazil and factorial\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+
